@@ -80,3 +80,4 @@ GRAPH:
 
 
 ## RESULT:
+Thus, the experiment confirms the reflex klystron’s suitability as a reliable, variable-frequency microwave source for laboratory applications.
